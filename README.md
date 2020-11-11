@@ -3,4 +3,5 @@
 My submission for Public Goods' take-home HTML/CSS assessment project.
 
 www.seanwelshbrown.com
+<br />
 seanwelshbrown@gmail.com
